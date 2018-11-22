@@ -32,7 +32,7 @@ export default {
 </script>
 
 <style>
-.counter-warp {
+/* .counter-warp {
   text-align: center;
   margin-top: 100px;
 }
@@ -42,5 +42,5 @@ export default {
   padding: 5px 10px;
   color: blue;
   border: 1px solid blue;
-}
+} */
 </style>
